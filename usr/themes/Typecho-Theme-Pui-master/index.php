@@ -50,7 +50,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 					<img src="<?php $this->options->themeUrl('img/avatar.png'); ?>"/> 
 				</div>
 				<div class="page-sub-text">
-					<span style="color: #FF5722;">praming.cn</span><br />守得云开见月明
+					<span style="color: #FF5722;">NatsuKawa</span><br />分享所见所得
 				</div>				
 			</div>
 			<hr/>
