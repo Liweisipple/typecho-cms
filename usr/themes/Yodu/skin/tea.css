@@ -1,0 +1,29 @@
+#instantclick-bar{background:#946757;}
+.intro{background-color: #795548; }
+.tx {background: #795548;}
+.tx img {box-shadow: 0 0 10px #795548;}
+.header { border: 0;background-color: #795548;}
+.tutu img {box-shadow: 3px 3px 3px #795548;}
+a, a:hover {color: #ad1457;}
+p.more {display: none;}
+.ad {background-color: #b38d7f;color: #ffffff;}
+.info-com {border-left: #795548 solid 5px;}
+.idcard {background: #ff0000;box-shadow: 0 0 8px #ff4000;}
+button#misubmit{background: #795548;}
+.btn--one {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+    transition: .3s;
+    background: #795548;
+    color: #fff;
+}
+.disabled, .disabled:hover {
+    color: rgba(0,0,0,.26);
+    fill: rgba(0,0,0,.26);
+    background-color: transparent;
+    cursor: not-allowed;
+    text-decoration: none;
+}
+sidebar{ border-right: 1px solid #eaeaea;}
+.cc {
+    border-left: .25em solid #795548;
+}

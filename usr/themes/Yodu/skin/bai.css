@@ -1,0 +1,82 @@
+#cover{position: fixed;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+    top: 0;
+    left: 0;    background-position: center 0%;
+    height: 100%;    background-image: url(../images/zbg.jpg);background-attachment: fixed;
+}
+sidebar,#lala{
+    background: rgba(255,255,255,0.8);
+}
+.tx{
+    background: transparent;
+}
+.cc {
+    background: rgba(252, 252, 252, 0.45);
+}
+.header,article code,.main {    background-color: rgba(255, 255, 255, 0);
+}
+article {
+    padding-top: 25px;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.post {
+    border: 1px solid rgba(0,0,0,.12);
+     background: rgba(255,255,255,0.8);
+    padding: 15px 15px 15px 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.header {
+    border: 1px solid  rgba(255,255,255,0.8);   background-color:  rgba(255,255,255,0.8);
+}
+sidebar {
+        border-right: 1px solid rgba(255, 255, 255, 0);
+}
+.footer{
+    border: 1px solid rgba(255,255,255,.12);
+     background: rgba(255,255,255,0.8);
+    padding: 5px;
+    border-radius: 5px;
+    margin:20px 20px 0 20px
+}
+.hljs {
+    background: rgba(255, 255, 255, 0.8);
+}
+.page-right {
+    color: #FFF;
+}
+.post-left,.post-right,.page-right {
+    color: #000;
+}
+.header h1 a,.btn--one,sidebar .tx span {
+    color: #464545;}
+.header .sjcd:before,.header .sjcd i, .header .sjcd:after{background-color:#000;}
+/*原生评论部分*/
+#comments {
+    background: rgba(255, 255, 255, 0.79);
+    padding: 15px;    border-radius: 5px;
+}
+.comment-list li {
+    background: rgba(255, 255, 255, 0);
+}
+.comment-main {
+    background-color: rgba(255, 255, 255, 0.88);
+}
+
+#bottom-bar{
+    background-color: rgba(255, 255, 255, 0.5);
+}
+@media only screen and (min-width:1919px){
+.main {
+    background-color: rgba(255, 255, 255, 0.1);
+  }}
+.aplayer {
+  background: #fff;}
+pre code::before{
+    background-color: rgba(251, 251, 251, 0.35);
+    outline: 100px solid rgba(251, 251, 251, 0.35);
+}

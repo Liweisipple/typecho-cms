@@ -1,0 +1,43 @@
+sidebar {
+    border-right: 0px;background-color: rgba(0,0,0,0.36);
+}
+.oldbg{
+    position: fixed;
+    top: 0;
+    overflow: auto;
+    width: 250px;
+    height: 100%;
+    background-image: url(../images/bg.jpg);
+    background-position: left center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+sidebar a:hover {
+    text-shadow: 0 0 5px #FFFFFF;
+    color: #eee;
+}
+@media only screen and (min-width:1560px){.oldbg{width:350px}}
+@media only screen and (min-width:767px) and (max-width:1023px){.oldbg{width:75px}}
+
+.tx,ul.cd {
+    position: relative;
+    z-index: 11;
+}
+.tx {
+    background: rgba(0, 0, 0, 0);z-index:11;
+
+}
+sidebar .tx span,sidebar a {
+    color: white;
+    text-shadow: 0 0 5px black;
+}
+#comments,.page,.post{
+    margin: 0;
+}
+
+.header{position: fixed;z-index: 9999;width: 100%;height: 50px;border: 1px solid #ccc;background-color: #fff;line-height: 50px}
+.header h1 a {
+    color: #333;
+    font-weight: 400;
+}
+.header .sjcd i,.header .sjcd:after,.header .sjcd:before{position: absolute;left: 14px;width: 22px;height: 1px;background-color: #88909a;-webkit-transition: all .2s cubic-bezier(.4,.01,.165,.99) .3s;transition: all .2s cubic-bezier(.4,.01,.165,.99) .3s}

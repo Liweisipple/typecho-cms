@@ -1,0 +1,137 @@
+#instantclick-bar{background:#252525;}.intro{background-color: #000000;}.tx {background: #000000;}.header { border: 1px solid #000000;background-color: #000000;}
+body{  
+color:#fff;
+}
+a, a:hover {
+    color: #71B2E0;
+}
+sidebar a:hover {
+    text-shadow: 0 0 5px #FFFFFF;
+    color: #000;
+}
+.cc {
+    background: rgba(13, 13, 13, 0.45);
+    border-left: .25em solid #797979;
+}
+.tagses a{
+    color: #fff;
+    background: #000000;
+}
+.tagses a:before{
+border-right: 12px solid #000;
+}
+.tagses a:after {
+  background-color: #909090;}
+sidebar,.main{
+    background-color: rgba(0, 0, 0, 0.3); 
+}
+.search-form--modal{
+background:#9A9A9A;
+}
+.tx{
+background: rgba(0, 0, 0, 0.3);
+}
+sidebar{
+border-right: 1px solid rgba(255, 255, 255, 0.25);
+}
+sidebar a,h1.title a,.content,.meta,.page-right,h1.title,.guidang,article .post .content .date{
+color:#fff;
+}
+.intro {
+    background-color: rgba(0, 0, 0, 0.75);
+}
+article {
+    padding-top: 25px;background-color: transparent;
+}
+.post {
+    border: 1px solid rgba(0,0,0,.12);
+     background: rgba(0, 0, 0, 0.3);
+    padding: 15px 15px 15px 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+article blockquote {
+    color: #C1C1C1;
+}
+.tags section a {
+    border: 1px solid #fff;
+    color: #fff;
+}
+#cover{position: fixed;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+    top: 0;
+    left: 0;    background-position: center 0%;background-attachment: fixed;
+    height: 100%;    background-image: url(../images/zbg.jpg);
+}
+.footer{
+  border: 1px solid rgba(255,255,255,.12);
+ background: rgba(0, 0, 0, 0.3);
+   padding: 5px;
+    border-radius: 5px;
+    margin:20px 20px 0 20px
+}
+.btn--one,.btn--two {
+    border: 1px solid rgb(0, 0, 0);
+    background: #131212;
+    color: #FFFFFF;
+}
+.shangbutton {
+    color: #FFFFFF!important;
+    border: 1px solid #9C9C9C;
+    background: #000;}
+article code {
+    background-color: #353535;
+}
+.ad {
+    background-color: rgba(193, 193, 193, 0.75);
+    color: #FFFFFF;
+}
+
+/*原生评论部分*/
+.info-com {    border-left: #808080 solid 5px;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.info-com, .cancel-comment-reply {
+    color: #fff;
+}
+.respond #comment-form {
+    background-color: rgba(62, 62, 62, 0.75);
+}
+#comments input {    background: rgba(0,0,0,0.3);
+    color: #fff;
+}
+#comments #textarea{
+background: rgba(0,0,0,0.3) url(../images/commentsbg.gif) right center no-repeat!important;color: #fff;
+}
+.comment-main {
+    background-color: rgba(62, 62, 62, 0.75);
+}
+.comment-author {
+    background-color: rgba(0, 0, 0, 0.52);
+    color: #FFF;
+}
+.comment-list p,.comment-at a {
+    color: #FFF;}
+#bottom-bar{  background-color: rgba(0, 0, 0, 0.3);    border-top: 1px solid rgba(255, 255, 255, 0.25);
+}
+.footer a {
+    color: #ccc;
+}
+@media only screen and (max-width:768px){
+.footer {
+    margin: 10px 10px 0 10px;
+}
+}
+.aplayer {
+  background: #fff;    color: #5d686f;}
+article pre code {
+    color: #fff;
+}
+pre code::before{
+background-color: rgba(0, 0, 0, 0.35);
+    color: #cecece;
+    outline: 100px solid rgba(0, 0, 0, 0.35);
+}
