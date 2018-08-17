@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="574e45f1-0446-4ea8-a7fe-efd0ec584694" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/footer.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,14 +13,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="51" column="43" lean-forward="true" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
+            <state relative-caret-position="290">
+              <caret line="60" column="60" selection-start-line="60" selection-start-column="60" selection-end-line="60" selection-end-column="60" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -30,6 +39,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>守得</find>
+      <find>Theme is Ice</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -39,6 +49,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/index.php" />
+        <option value="$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/footer.php" />
       </list>
     </option>
   </component>
@@ -107,12 +118,12 @@
       <updated>1533177428631</updated>
       <workItem from="1533177429933" duration="134000" />
       <workItem from="1534129448184" duration="4477000" />
-      <workItem from="1534485346048" duration="51000" />
+      <workItem from="1534485346048" duration="256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4662000" />
+    <option name="totallyTimeSpent" value="4867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="75" y="55" width="1540" height="910" extended-state="0" />
@@ -152,11 +163,18 @@
     <entry file="file://$PROJECT_DIR$/wp-admin/edit-form-comment.php" />
     <entry file="file://$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="51" column="43" lean-forward="true" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
+        <state relative-caret-position="290">
+          <caret line="60" column="60" selection-start-line="60" selection-start-column="60" selection-end-line="60" selection-end-column="60" />
           <folding>
             <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
         </state>
       </provider>
     </entry>
