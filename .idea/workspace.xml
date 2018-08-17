@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="574e45f1-0446-4ea8-a7fe-efd0ec584694" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/sidebar.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +25,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            <state relative-caret-position="260">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sidebar.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/sidebar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="43" column="38" lean-forward="true" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -40,6 +49,7 @@
     <findStrings>
       <find>守得</find>
       <find>Theme is Ice</find>
+      <find>郑州网站</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -50,6 +60,7 @@
       <list>
         <option value="$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/index.php" />
         <option value="$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/footer.php" />
+        <option value="$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/sidebar.php" />
       </list>
     </option>
   </component>
@@ -118,12 +129,12 @@
       <updated>1533177428631</updated>
       <workItem from="1533177429933" duration="134000" />
       <workItem from="1534129448184" duration="4477000" />
-      <workItem from="1534485346048" duration="256000" />
+      <workItem from="1534485346048" duration="365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4867000" />
+    <option name="totallyTimeSpent" value="4976000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="75" y="55" width="1540" height="910" extended-state="0" />
@@ -173,8 +184,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        <state relative-caret-position="260">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="43" column="38" lean-forward="true" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
         </state>
       </provider>
     </entry>

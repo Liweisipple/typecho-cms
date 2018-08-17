@@ -44,7 +44,7 @@
 <div class="list-aeticle text-small" >
 	<ul>
 		<h3 class="heading-bullet heading-line margin-line"><span>Links</span></h3>
-	    <li><a href="http://www.gukong.com" target= _blank>郑州网站建设</a></li>
-	    <li><a href="http://www.ruilongcn.com" target= _blank>卷烟机配件</a></li>
+	    <li><a href="https://github.com/Liweisipple" target= _blank>Github Of Natsu</a></li>
+<!--	    <li><a href="http://www.ruilongcn.com" target= _blank>卷烟机配件</a></li>-->
 	</ul>
 </div>
