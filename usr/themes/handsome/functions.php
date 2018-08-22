@@ -266,19 +266,19 @@ function themeConfig($form) {
     $titleintro = new Text('titleintro', NULL,NULL, _t('博客标题后缀'), _t('你的博客标题栏博客名称后面的副标题，如果为空，则不显示副标题</br></br>'));
     $form->addInput($titleintro);
     //博主名称：aside.php中会调用
-    $BlogName = new Text('BlogName', NULL, 'ihewro', _t('博主的名称'), _t('输入你的名称，左侧边栏头像下面会输出该名称'));
+    $BlogName = new Text('BlogName', NULL, 'NatsuKawa', _t('博主的名称'), _t('输入你的名称，左侧边栏头像下面会输出该名称'));
     $form->addInput($BlogName);
     //博主职业
-    $BlogJob = new Text('BlogJob', NULL, 'A student', _t('博主的介绍'), _t('输入你的简介，在侧边栏的名称下面和时光机页面显示'));
+    $BlogJob = new Text('BlogJob', NULL, 'PHP Engineer', _t('博主的介绍'), _t('输入你的简介，在侧边栏的名称下面和时光机页面显示'));
     $form->addInput($BlogJob);
     //首页文字：将会在首页博客名称下面和404.php页面调用此字段
-    $Indexwords = new Text('Indexwords', NULL, '迷失的人迷失了，相逢的人会再相逢', _t('首页一行文字介绍'), _t('输入你喜欢的一行文字吧，在首页显示'));
+    $Indexwords = new Text('Indexwords', NULL, 'C.Golang.PHP开发', _t('首页一行文字介绍'), _t('输入你喜欢的一行文字吧，在首页显示'));
     $form->addInput($Indexwords);
     //favicon图标
     $favicon = new Text('favicon', NULL, NULL, _t('favicon 地址'), _t('填入博客 favicon 的地址, 不填则显示主机根目录下的favicon.ico文件'));
     $form->addInput($favicon);
     //博主头像：在本主题中首页index.php 和 aboutme.php中将会调用此头像
-    $BlogPic = new Text('BlogPic', NULL, 'https://ww4.sinaimg.cn/large/a15b4afegy1fcgr86xdu6j2064064mxd', _t('头像图片地址'), _t('logo头像地址，尺寸在200X200左右即可,会在首页的 <code>左侧边栏中</code> 显示。'));
+    $BlogPic = new Text('BlogPic', NULL, 'https://secure.gravatar.com/avatar/cf21a969fbb29d3a866010c4c9bdefa6?s=65&amp;r=G&amp;d=%22', _t('头像图片地址'), _t('logo头像地址，尺寸在200X200左右即可,会在首页的 <code>左侧边栏中</code> 显示。'));
     $form->addInput($BlogPic);
 
     //博客公告消息
