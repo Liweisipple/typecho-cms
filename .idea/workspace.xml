@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="574e45f1-0446-4ea8-a7fe-efd0ec584694" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/usr/themes/Typecho-Theme-Pui-master/sidebar.php" afterDir="false" />
-    </list>
+    <list default="true" id="574e45f1-0446-4ea8-a7fe-efd0ec584694" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -129,12 +127,12 @@
       <updated>1533177428631</updated>
       <workItem from="1533177429933" duration="134000" />
       <workItem from="1534129448184" duration="4477000" />
-      <workItem from="1534485346048" duration="365000" />
+      <workItem from="1534485346048" duration="795000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4976000" />
+    <option name="totallyTimeSpent" value="5406000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="75" y="55" width="1540" height="910" extended-state="0" />
